@@ -5,6 +5,7 @@ public class HelloWorld {
 }
 
 
+<<<<<<< Updated upstream
 2nd code
   import java.util.Scanner;
 
@@ -24,3 +25,8 @@ public class AddNumbers {
         input.close();
     }
 }  
+=======
+
+
+new code is addedd for v3
+>>>>>>> Stashed changes
